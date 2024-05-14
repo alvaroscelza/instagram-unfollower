@@ -1,1 +1,1 @@
-InstagramAPI
+selenium==4.20.0

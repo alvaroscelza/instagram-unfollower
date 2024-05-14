@@ -1,3 +1,0 @@
-- 200 usuarios es el limite
-- 4 minutos se requieren para  volver a eliminar
-- esperando un minuto luego de llegar a los 200 no sirve.
